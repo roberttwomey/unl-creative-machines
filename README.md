@@ -6,7 +6,7 @@
 
 # Description
 
-This upper level computation course draws on skills from intermediate coursework in Emerging Media Arts. Students integrate multiple computational tools to create creative machines. Students will learn key ideas from systems art, cybernetics, and computational creativity, and apply these to the development of self-guided projects. 
+This course draws on skills from intermediate coursework in Emerging Media Arts. Students integrate multiple computational tools to create creative machines. Students will learn key ideas from systems art, cybernetics, and computational creativity, and apply these to the development of self-guided projects. 
 
 Final projects will demonstrate generative, interactive, and computational techniques at an advanced undergraduate level.
 
