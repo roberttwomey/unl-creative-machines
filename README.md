@@ -138,10 +138,7 @@ Students are responsible for knowing the university policies and resources found
 
 [TK] Include course-specific attendance policy and other course rules here.
 
-[Attendance](#attendance) | [Late Work)(#late-work)
-
-## Using Other People's Code
-We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
+[Attendance](#attendance) | [Late Work](#late-work) | [Other People's Code](#other-peoples-code)
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
@@ -158,6 +155,8 @@ class will result in the reduction of the final grade by a full letter grade (i.
 ## Late Work
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
+## Other People's Code
+We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
 # References
 [TK]
