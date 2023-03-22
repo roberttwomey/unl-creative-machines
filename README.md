@@ -120,23 +120,7 @@ Failing participation is marked by excessive absences, a habitual lack of prepar
 
 # Policies
 
-## UNL Course Policies and Resources__. 
-
-Students are responsible for knowing the university policies and resources found on this page [https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies):
-- University-wide Attendance Policy
-- Academic Honesty Policy
-- Services for Students with Disabilities
-- Mental Health and Well-Being Resources
-- Final Exam Schedule
-- Fifteenth Week Policy
-- Emergency Procedures
-- Diversity & Inclusiveness
-- Title IX Policy
-- Other Relevant University-Wide Policies
-
-# Course Expectations
-
-[TK] Include course-specific attendance policy and other course rules here.
+Course-specific policies and rules.
 
 [Attendance](#attendance) | [Late Work](#late-work) | [Other People's Code](#other-peoples-code)
 
@@ -157,6 +141,20 @@ An assignment may receive an F if a student does not participate in every phase 
 
 ## Other People's Code
 We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
+
+## UNL Course Policies and Resources
+
+Students are responsible for knowing the university policies and resources found on this page [https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies):
+- University-wide Attendance Policy
+- Academic Honesty Policy
+- Services for Students with Disabilities
+- Mental Health and Well-Being Resources
+- Final Exam Schedule
+- Fifteenth Week Policy
+- Emergency Procedures
+- Diversity & Inclusiveness
+- Title IX Policy
+- Other Relevant University-Wide Policies
 
 # References
 [TK]
