@@ -27,7 +27,7 @@ Final projects will demonstrate generative, interactive, and computational techn
 - Think critically about creativity and technology
 - Exposure to contemporary creative machines projects and practitioners.
 
-<! -- 
+<!-- 
 
 - Experiential Learning
 - Critical thinking and making
