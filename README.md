@@ -122,7 +122,7 @@ Failing participation is marked by excessive absences, a habitual lack of prepar
 
 Course-specific policies and rules.
 
-[Attendance](#attendance) | [Late Work](#late-work) | [Other People's Code](#other-peoples-code)
+[Attendance](#attendance) | [Late Work](#late-work) | [Other People's Code](#other-peoples-code) | [UNL Course Policies and Resources](#unl-course-policies-and-resources)
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
