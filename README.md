@@ -57,7 +57,7 @@ creative work employing ML and generative art techniques.
 | Week | Topic |
 |------|-------|
 | 1 | **Hello. Syllabus and Policies. Compute Setup** |
-| 2 | **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
+| 2 | **Machine Creativity: Systems, Surrogates, Support Tools** <br> - Onboarding <br> - python/jupyter basics <br> - Homework: Systems Art |
 | 3-14 | **[More info TK]**
 | 15 | **Workshopping Final Presentations**<br> - Final project work time |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
