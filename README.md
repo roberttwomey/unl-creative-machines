@@ -1,4 +1,4 @@
-# EMAR 349: Machine Learning for the Arts - Spring 2022
+# EMAR 445: Creative Machines - Fall 2023
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
