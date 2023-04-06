@@ -6,7 +6,7 @@
 
 # Description
 
-This course draws on skills from intermediate coursework in Emerging Media Arts. Students integrate multiple computational tools to create creative machines. Students will learn key ideas from systems art, cybernetics, and computational creativity, and apply these to the development of self-guided projects. 
+This course draws on skills from intermediate coursework in Emerging Media Arts. Students integrate multiple computational tools to create creative machines. Students will learn key ideas from systems art, cybernetics, and computational creativity, and apply these to the development of self-guided projects. For fall 2023 we will focus on robotics.
 
 Final projects will demonstrate generative, interactive, and computational techniques at an advanced undergraduate level.
 
@@ -58,9 +58,10 @@ creative work employing ML and generative art techniques.
 |------|-------|
 | 1 | **Hello. Syllabus and Policies. Technical Setup** |
 | 2 | **Machine Creativity: Systems, Surrogates, Support Tools** <br> - Onboarding <br> - python/jupyter basics <br> - Homework: Systems Art |
-| 3-14 | **[More info TK]**
-| 15 | **Workshopping Final Presentations**<br> - Final project work time |
-| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
+| 3-13 | **[More info TK]**
+| 14 | **Workshopping Final Projects**<br> - Final project work time |
+| 15 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
+| Finals | Submit final documentation and report. |
 
 # Course Grading Policy
 
