@@ -2,7 +2,7 @@
 
 [Description](#description) | [Schedule](#course-schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
-![Image](ml_art2019.png)
+![Image](cm-logo.jpg)
 
 # Description
 
