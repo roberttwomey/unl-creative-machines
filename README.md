@@ -49,51 +49,46 @@ creative work employing ML and generative art techniques.
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [TK]
 - **Discord:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#creative-machines` channel on the Carson Center server [TK]
   - the server invite is posted on canvas.
-- **Zoom:** [TK]
+- **Zoom:** [TK] when necessary.
 
 # Course Schedule
 (Subject to Change-Always check back for most up to date information)
 
 | Week | Topic |
 |------|-------|
-| 1 | **Hello. Syllabus and Policies. Technical Setup** |
-| 2 | **Machine Creativity: Systems, Surrogates, Support Tools** <br> - Onboarding <br> - python/jupyter basics <br> - Homework: Systems Art |
-| 3-13 | **[More info TK]**
-| 14 | **Workshopping Final Projects**<br> - Final project work time |
-| 15 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
+| 1 | **Introduction** Syllabus and Policies; Course Structure; Intro discussions. |
+| 2-3 | **Conceptual Framings and Groundwork**<br> - Readings: Deep dive on Human-Robot and Human-Computer Interaction (HRI/HCI), texts and artworks.<br> - Weekly Exercises: Midterm development activities and reading responses;<br> -  DUE: Week 7, Midterm Project and Critique |
+| 4-7 | **Midterm Work and Human-Machine Collaboration **<br> - Readings: Deep dive on Human-Robot and Human-Computer Interaction (HRI/HCI), texts and artworks.<br> - Weekly Exercises: Midterm development activities and reading responses;<br> - DUE: Week 7, Midterm Project and Critique |
+| 8 | **Final Project Workshopping and Proposals **; <br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - DUE: Week 8, Final Project Proposal and Pitch |
+| 9-13 | **Project Work and Individualized Readings **<br> - Readings: Texts and artworks supporting individual project directions.<br> - Weekly Exercises: Final project development; critiques; reading responses.<br> - DUE: Week 13, Working prototype of final project  |
+| 14 | **Finishing Work**: Workshop final presentations; Project completion time; Preparing final report. |
+| 15 | **Exhibition/Showcase**: Work on report; Final critiques; Open Studios. |
 | Finals | Submit final documentation and report. |
 
 # Course Grading Policy
 
 ## Graded activities
-- 20% Weekly Exercises – approximately 10 exercises 
-- 45% Projects – You will do three projects at 15% each*
-  * Code, Documentation, and Results must be submitted for credit.
-- 25% Final Project
-  * Code
-  * Documentation
-  * Presentation
-- 10% Participation
-  * Finding and sharing resources on our course discussion. 
-  * Small assignments/tasks as they arise, graded on completion.
-  * Readings.
-  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
+- 25% Weekly Exercises – approximately 10 exercises 
+- 25% Midterm Project* 
+  - Proposal, Code, Documentation, and Results must be submitted for credit. 
+- 40% Final Project*
+  - Proposal, Code, Documentation, Presentation. 
 
-*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
+*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns.
 
 ## Description of Assignments and Exams
 
 __*Weekly Exercises*__
-We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
+Regular small assignments employing tools, techniques, and ideas covered in class. These are short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
 
 __*Projects*__
-We will have three projects over the semester (at 15% each), covering three kinds of generative media: Text, Sound, and Image. Each project will be hosted on a github repository documenting project following a uniform template. This includes a statement of concept, source code, links to data resources, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and github respositories will be submitted for grading.
+We will have a midterm project covering concepts from the introductory portion of the class. Each project will have a formal proposal; students will maintain code and design files for their work; students will document their result. Projects will be presented and critiqued in class. Documentation will be submitted for grading. 
 
 __*Final Project, Documentation, and Presentation*__
-At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
+For the end of the semester you will propose and create a self-directed Creative Machines project engaging tools, materials, and subjects from class. You may build off of examples that excited you from the course, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the midterm. In Week 15 we will have a showcase for these projects, including a short talk and exhibition of the resulting work.  
 
 __*Participation*__
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
+Contributions to class discussions and active participation in critiques and workshops are essential to the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading or exercises), and ready to participate in class activities. Bring finished work for in-class crtiqiues. See the participation evaluation in the Grading Scale below for more information.
 
 ## Grading Scale
 A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
@@ -104,20 +99,23 @@ F = below 60%<br>
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
 
-A – Excellent<br>
-Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
+A – Excellent 
+
+Excellent participation is marked by near-perfect attendance and rigorous preparation for class work. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit assignments on time, adhering to posted requirements, and demonstrate a thorough engagement with the assignment. You respond creatively to any feedback you receive (from both your peers and instructor). You are an active contributor to classroom community. 
+
+  
 
 B – Good<br>
-Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
+Good participation is marked by near-perfect attendance and thorough preparation for class. You respond to questions with specificity and make active contributions to class. You submit assignments on time, and demonstrate a thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor). You are a regular and reliable contributor to classroom community. 
 
 C – Satisfactory<br>
-Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
+Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present in class, with few absences, and have done some of the work some of the time. You submit assignments and make some efforts toward revision proposals and final submission. You are involved in classroom activities, but you offer minimal feedback and you may not always contribute fully to classroom community.
 
 D – Unsatisfactory<br>
-Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
+Unsatisfactory participation is marked by multiple absences from class and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work. You are absent for classroom activities, or do not work cooperatively in collaborative environments. 
 
 F—Failing<br>
-Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
+Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in classroom activities and development processes.
 
 # Policies
 
