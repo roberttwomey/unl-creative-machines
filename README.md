@@ -56,7 +56,7 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
-| 1 | **Hello. Syllabus and Policies. Compute Setup** |
+| 1 | **Hello. Syllabus and Policies. Technical Setup** |
 | 2 | **Machine Creativity: Systems, Surrogates, Support Tools** <br> - Onboarding <br> - python/jupyter basics <br> - Homework: Systems Art |
 | 3-14 | **[More info TK]**
 | 15 | **Workshopping Final Presentations**<br> - Final project work time |
