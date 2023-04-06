@@ -69,10 +69,9 @@ creative work employing ML and generative art techniques.
 
 ## Graded activities
 - 25% Weekly Exercises – approximately 10 exercises 
-- 25% Midterm Project* 
-  - Proposal, Code, Documentation, and Results must be submitted for credit. 
-- 40% Final Project*
-  - Proposal, Code, Documentation, Presentation. 
+- 25% Midterm Project* - proposal, code, documentation, and results must be submitted for credit. 
+- 40% Final Project* - proposal, code, documentation, presentation. 
+- 10% Participation
 
 *Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns.
 
