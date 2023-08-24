@@ -81,7 +81,7 @@ __*Weekly Exercises*__
 Regular small assignments employing tools, techniques, and ideas covered in class. These are short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
 
 __*Projects*__
-We will have a midterm project covering concepts from the introductory portion of the class. Each project will have a formal proposal; students will maintain code and design files for their work; students will document their result. Projects will be presented and critiqued in class. Documentation will be submitted for grading. 
+We will have one (or more) projects covering concepts from the introductory portion of the class. Each project will have a formal proposal; students will maintain code and design files for their work; students will document their result. Projects will be presented and critiqued in class. Documentation will be submitted for grading. 
 
 __*Final Project, Documentation, and Presentation*__
 For the end of the semester you will propose and create a self-directed Creative Machines project engaging tools, materials, and subjects from class. You may build off of examples that excited you from the course, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the midterm. In Week 15 we will have a showcase for these projects, including a short talk and exhibition of the resulting work.  
@@ -90,10 +90,10 @@ __*Participation*__
 Contributions to class discussions and active participation in critiques and workshops are essential to the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading or exercises), and ready to participate in class activities. Bring finished work for in-class crtiqiues. See the participation evaluation in the Grading Scale below for more information.
 
 ## Grading Scale
-A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
-B+ = 87-90 | B = 83-87 | B- = 80-83 <br>
-C+ = 77-80 | C = 73-77 | C- = 70-73 <br>
-D+ = 67-70 | D = 63-67 | D- = 60-63 <br>
+A+ = 96.67-100 | A = 93.33-96.67 | A- = 90-93.33 <br>
+B+ = 86.66-90 | B = 83.33-86.67 | B- = 80-83.33 <br>
+C+ = 76.67-80 | C = 73.33-76.67 | C- = 70-73.33 <br>
+D+ = 66.67-70 | D = 63.33-66.67 | D- = 60-63.33 <br>
 F = below 60%<br>
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
