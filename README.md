@@ -60,9 +60,9 @@ creative work employing ML and generative art techniques.
 | 2-3 | **Conceptual Framings and Groundwork** <br> - Readings: Systems Art, Cybernetics, Computational Creativity <br> - Weekly Exercises: Short project experiments and reading responses. <br> - DUE: Week 3, Proposal for Midterm Project |
 | 4-7 | **Midterm Work and Human-Machine Collaboration** <br> - Readings: Deep dive on Human-Robot and Human-Computer Interaction (HRI/HCI), texts and artworks.<br> - Weekly Exercises: Midterm development activities and reading responses;<br> - DUE: Week 7, Midterm Project and Critique |
 | 8 | **Final Project Workshopping and Proposals**<br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - DUE: Week 8, Final Project Proposal and Pitch |
-| 9-13 | **Project Work and Individualized Readings**<br> - Readings: Texts and artworks supporting individual project directions.<br> - Weekly Exercises: Final project development; critiques; reading responses.<br> - DUE: Week 13, Working prototype of final project  |
-| 14 | **Finishing Work**: Workshop final presentations; Project completion time; Preparing final report. |
-| 15 | **Exhibition/Showcase**: Work on report; Final critiques; Open Studios. |
+| 9-14 | **Project Work and Individualized Readings**<br> - Readings: Texts and artworks supporting individual project directions.<br> - Weekly Exercises: Final project development; critiques; reading responses.<br> - DUE: Week 13, Working prototype of final project  |
+| 15 | **Finishing Work**: Workshop final presentations; Project completion time; Preparing final report. |
+| 16 | **Exhibition/Showcase**: Work on report; Final critiques; Open Studios. |
 | Finals | Submit final documentation and report. |
 
 # Course Grading Policy
