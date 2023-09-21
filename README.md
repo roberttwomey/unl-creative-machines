@@ -4,6 +4,9 @@
 
 ![Image](cm-logo2.jpg)
 
+_Clockwise from left: [Harold Cohen - AARON (1972-2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/), [Architecture Machine Group - SEEK (1969-70)](http://worrydream.com/refs/Negroponte%20-%20Seek.pdf), [Jonathan Schipper - Detritus (2013)](https://www.jonathanschipper.com/new-page), [Maria Yablonina - Mobile Robotic Fabrication System for Filament Structures (2015)](https://www.mariayablonina.com/mobile-robotic-fabrication-system), [Allison Kudla - Capacity For Urban Eden - Human Error (2010)](
+http://allisonx.com/project/capacity-for-urban-eden-human-error/)_
+
 # Description
 
 This course draws on skills from intermediate coursework in Emerging Media Arts. Students integrate multiple computational tools to create creative machines. Students will learn key ideas from systems art, cybernetics, and computational creativity, and apply these to the development of self-guided projects.
