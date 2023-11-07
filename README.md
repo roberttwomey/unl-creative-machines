@@ -59,14 +59,20 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
-| 1 | **Introduction** <br> - Syllabus and Policies; Course Structure;< br> - representative machines <br> - Define terms: creativity, machines, creative machines; creative attributes <br> - three ways to control the XArm (demonstration, blockly, python, omniverse) <br> - **HW** Paper Machine |
+| 1 | **Introduction** <br> - Syllabus and Policies; Course Structure; <br> - identifying with machines / machine avatars <br> - Define terms: creativity, machines, creative machines; creative attributes <br> - three ways to control the XArm (demonstration, blockly, python, omniverse) <br> - **HW** Paper Machine |
 | 2 | **Pretense** <br> - Small groups: share paper machines <br> - Plotting activity: analyze and diagram the dimensions of creative space; plot your machine; <br> - Pick and place with blockly + XArm <br> - Assign **HW2** Pick and Place <br> - Assign **Reading** John McCarthy _Ascribing Mental Qualities to Machines_ (1979) |
-| 2-3 | **Conceptual Framings and Groundwork** <br> - Readings: Systems Art, Cybernetics, Computational Creativity <br> - Weekly Exercises: Short project experiments and reading responses. <br> - DUE: Week 3, Proposal for Midterm Project |
-| 4-7 | **Midterm Work and Human-Machine Collaboration** <br> - Readings: Deep dive on Human-Robot and Human-Computer Interaction (HRI/HCI), texts and artworks.<br> - Weekly Exercises: Midterm development activities and reading responses;<br> - DUE: Week 7, Midterm Project and Critique |
-| 8 | **Final Project Workshopping and Proposals**<br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - DUE: Week 8, Final Project Proposal and Pitch |
-| 9-14 | **Project Work and Individualized Readings**<br> - Readings: Texts and artworks supporting individual project directions.<br> - Weekly Exercises: Final project development; critiques; reading responses.<br> - DUE: Week 13, Working prototype of final project  |
-| 15 | **Finishing Work**: Workshop final presentations; Project completion time; Preparing final report. |
-| 16 | **Exhibition/Showcase**: Work on report; Final critiques; Open Studios. |
+| 3 | **Strong AI, Motion Control** <br> - Discuss McCarthy Reading: Machine as metaphor; the project of strong AI <br> - Camera Robots and Dollies <br> - Camera mounts and camera control; <br> - **HW** Install Rhino Grasshopper; do tutorials. Complete Part 1 of your H3 Bot and Dolly: Robotic Camera Control | 
+| 4 | **Real-Time Control and Camera Work** <br> - Special guest Isaac Regier: UR-10 and grasshopper Robots plugin; <br> - In-class work on Robotic Camera Control |
+| 5 | **Creative / Destructive Machines** <br> - Share and discuss Bot and Dolly homeworks <br> - Creative / Destructive Machines <br> Tooltips / end effectors <br> **HW** End Effectors <br> - **Reading** Destructive Machines ([1] Tinguely, _Homage to New York _MOMA, [2] Luria et al., _Destruction, Catharsis and Emotional Release in HRI_ (2020) | 
+| 6 | **Affective Machines** <br> - Discuss **Reading** Destructive Machines <br> - Present + Discuss HW End Effectors <br> - Introduce Affective Machines (Picard Affective Computing; Breazeal Sociable Robots; others) <br> - Assign **Midterm Project** My Elegant Robot Freedom |
+| 7-8 | Work time **Midterm Project** <br> - Independent check-in | 
+| 9 | **Theories of Creativity** <br> - Recenter on creativity <br> - Brief introduction to Margaret Boden (P- and H- type creativity; combinatoric, exploratory, transformative; novelty; which of these can AI do?); <br> - Guiding questions for this course: What is creativity and what are its attributes? can there be such a thing as a creative machine? | - Assign **Reading** Margaret Boden _Creativity and AI_ (1998)
+| 10 | **Conceptual Machines** <br> - Critique <br> - Conceptual Machines (share and discuss) <br> - **Reading** Conceptual Machines (Sol Lewitt _Paragraphs on Conceptual Art_) <br> - Assign **HW** Conceptual machine |
+| 11 | **Collaboration and Co-Creation** <br> - Discuss **Reading** Conceptual Machines; <br> - Introduce Computational Co-Creativity: 4 Ps (Rhodes), 5 As (Glăveanu), 5Cs (Kantosalo and Takala) <br> Examples of Computational Co-Creation |
+| 12 | **Desiring Machines** <br> - Playtest **HW** Conceptual Machines <br> - Introduce Desiring Machines <br> - Assign Final Project|
+| 13 | **Healing Machines** <br> - Critique **HW** Conceptual Machines| 
+| 14 | **Project Work and Individualized Readings** <br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - Readings: Texts and artworks supporting individual project directions.<br> - Exercise: Final project development; critiques; reading responses |
+| 15 | **Exhibition/Showcase**: Project completion time <br> -Preparing final report <br> -Final critiques; Open Studios. |
 | Finals | Submit final documentation and report. |
 
 # Course Grading Policy
