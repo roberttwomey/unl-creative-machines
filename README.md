@@ -57,12 +57,14 @@ creative work employing ML and generative art techniques.
 # Course Schedule
 (Subject to Change-Always check back for most up to date information)
 
+For Fall 2023 we will study Creative Machines in the context of Robotics for the first half of the semester. 
+
 | Week | Topic |
 |------|-------|
 | 1 | **Introduction** <br> - Syllabus and Policies; Course Structure; <br> - identifying with machines / machine avatars <br> - Define terms: creativity, machines, creative machines; creative attributes <br> - three ways to control the XArm (demonstration, blockly, python, omniverse) <br> - **HW** Paper Machine |
 | 2 | **Pretense** <br> - Small groups: share paper machines <br> - Plotting activity: analyze and diagram the dimensions of creative space; plot your machine; <br> - Pick and place with blockly + XArm <br> - Assign **HW2** Pick and Place <br> - Assign **Reading** John McCarthy _Ascribing Mental Qualities to Machines_ (1979) |
 | 3 | **Strong AI, Motion Control** <br> - Discuss McCarthy Reading: Machine as metaphor; the project of strong AI <br> - Camera Robots and Dollies <br> - Camera mounts and camera control; <br> - **HW** Install Rhino Grasshopper; do tutorials. Complete Part 1 of your H3 Bot and Dolly: Robotic Camera Control | 
-| 4 | **Real-Time Control and Camera Work** <br> - Special guest Isaac Regier: UR-10 and grasshopper Robots plugin; <br> - In-class work on Robotic Camera Control |
+| 4 | **Real-Time Control and Camera Work** <br> - Special guest Isaac Regier (Heartland Robotics Cluster): UR-10 and grasshopper Robots plugin; <br> - In-class work on Robotic Camera Control |
 | 5 | **Creative / Destructive Machines** <br> - Share and discuss Bot and Dolly homeworks <br> - Creative / Destructive Machines <br> Tooltips / end effectors <br> **HW** End Effectors <br> - **Reading** Destructive Machines ([1] Tinguely, _Homage to New York _MOMA, [2] Luria et al., _Destruction, Catharsis and Emotional Release in HRI_ (2020) | 
 | 6 | **Affective Machines** <br> - Discuss **Reading** Destructive Machines <br> - Present + Discuss HW End Effectors <br> - Introduce Affective Machines (Picard Affective Computing; Breazeal Sociable Robots; others) <br> - Assign **Midterm Project** My Elegant Robot Freedom |
 | 7-8 | Work time **Midterm Project** <br> - Independent check-in | 
