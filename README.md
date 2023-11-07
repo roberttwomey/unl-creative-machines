@@ -1,4 +1,4 @@
-# EMAR 391.003: Creative Machines - Fall 2023
+# EMAR 391.003 (445): Creative Machines - Fall 2023
 
 [Description](#description) | [Schedule](#course-schedule) | [Resources](#resources) | [Grading](#course-grading-policy) | [Policies](#policies) | [References](#references)
 
