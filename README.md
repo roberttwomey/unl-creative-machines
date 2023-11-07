@@ -59,7 +59,8 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
-| 1 | **Introduction** Syllabus and Policies; Course Structure; Intro discussions. |
+| 1 | **Introduction** <br> - Syllabus and Policies; Course Structure;< br> - representative machines <br> - Define terms: creativity, machines, creative machines; creative attributes <br> - three ways to control the XArm (demonstration, blockly, python, omniverse) <br> - **HW** Paper Machine |
+| 2 | **Pretense** <br> - Small groups: share paper machines <br> - Plotting activity: analyze and diagram the dimensions of creative space; plot your machine; <br> - Pick and place with blockly + XArm <br> - Assign **HW2** Pick and Place <br> - Assign **Reading** John McCarthy _Ascribing Mental Qualities to Machines_ (1979) |
 | 2-3 | **Conceptual Framings and Groundwork** <br> - Readings: Systems Art, Cybernetics, Computational Creativity <br> - Weekly Exercises: Short project experiments and reading responses. <br> - DUE: Week 3, Proposal for Midterm Project |
 | 4-7 | **Midterm Work and Human-Machine Collaboration** <br> - Readings: Deep dive on Human-Robot and Human-Computer Interaction (HRI/HCI), texts and artworks.<br> - Weekly Exercises: Midterm development activities and reading responses;<br> - DUE: Week 7, Midterm Project and Critique |
 | 8 | **Final Project Workshopping and Proposals**<br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - DUE: Week 8, Final Project Proposal and Pitch |
