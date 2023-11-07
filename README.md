@@ -70,11 +70,11 @@ For Fall 2023 we will study Creative Machines in the context of Robotics for the
 | 7-8 | Work time **Midterm Project** <br> - Independent check-in | 
 | 9 | **Theories of Creativity** <br> - Recenter on creativity <br> - Brief introduction to Margaret Boden (P- and H- type creativity; combinatoric, exploratory, transformative; novelty; which of these can AI do?); <br> - Guiding questions for this course: What is creativity and what are its attributes? can there be such a thing as a creative machine? <br> - Assign **Reading** Margaret Boden _Creativity and AI_ (1998) |
 | 10 | **Conceptual Machines** <br> - Critique <br> - Conceptual Machines (share and discuss) <br> - **Reading** Conceptual Machines (Sol Lewitt _Paragraphs on Conceptual Art_) <br> - Assign **HW** Conceptual machine |
-| 11 | **Collaboration and Co-Creation** <br> - Discuss **Reading** Conceptual Machines; <br> - Introduce Computational Co-Creativity: 4 Ps (Rhodes), 5 As (Glăveanu), 5Cs (Kantosalo and Takala) <br> Examples of Computational Co-Creation |
+| 11 | **Collaboration and Co-Creation** <br> - Discuss **Reading** Conceptual Machines; <br> - Introduce Computational Co-Creativity: 4 Ps (Rhodes), 5 As (Glăveanu), 5Cs (Kantosalo and Takala) <br> - Examples of Computational Co-Creation |
 | 12 | **Desiring Machines** <br> - Playtest **HW** Conceptual Machines <br> - Introduce Desiring Machines <br> - Assign **Reading** Deleuze and Guattari _Balance sheet-program for desiring-machines_ (1977) <br> - Assign **Final Project**: your Creative Machine |
 | 13 | **Healing Machines** <br> - Critique **HW** Conceptual Machines| 
-| 14 | **Project Work and Individualized Readings** <br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - Readings: Texts and artworks supporting individual project directions.<br> - Exercise: Final project development; critiques; reading responses |
-| 15 | **Exhibition/Showcase**: Project completion time <br> -Preparing final report <br> -Final critiques; Open Studios. |
+| 14 | **Project Work and Individualized Readings** <br> - Project completion time <br> - Readings: How to structure a project; How to write a proposal; How to pitch.<br> - Readings: Texts and artworks supporting individual project directions.<br> - Exercise: Final project development; critiques; reading responses |
+| 15 | **Exhibition/Showcase** <br> -Preparing final report <br> -Final critiques; Open Studios. |
 | Finals | Submit final documentation and report. |
 
 # Course Grading Policy
